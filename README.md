@@ -23,7 +23,7 @@ This Go program defines a simple deck of playing cards and provides various oper
 1. Clone this repository to your Go workspace:
 
    ```bash
-   git clone https://github.com/yourusername/goplayingcardsdeck.git
+   git clone https://github.com/yourusername/cards.git
    ```
 
 2. Navigate to the project directory:
